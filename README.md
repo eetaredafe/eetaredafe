@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EtaredafeNC
+- 👋 Hi, I’m @eetaredafe
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on web development projects
